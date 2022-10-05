@@ -59,6 +59,18 @@ h2{
 
 /* Homepage */
 
+.logo {
+    width: 90px;
+    height: auto;
+    border: none;
+    margin:0;
+}
+
+.header {
+    display: flex;
+
+}
+
 .menu {
     border: 1px solid black;
     padding: 20px;
@@ -83,6 +95,11 @@ h2{
     background-color: rgb(53,122,183);
     color: white;
     font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
 }
 
 /*H2 french flag */
@@ -126,6 +143,7 @@ img {
     width: 100%;
     height: auto;
     border: 1px solid black;
+    margin-top: 30px;
 }
 
 .source {
@@ -140,7 +158,7 @@ img {
 }
 
 
-ul {
+.ingredients ul {
     list-style-type: none;
     text-align: left;
     position: relative;
