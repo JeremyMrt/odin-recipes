@@ -60,14 +60,15 @@ h2{
 /* Homepage */
 
 .logo {
-    width: 90px;
-    height: auto;
+    width: auto;
+    height: 90px;
     border: none;
     margin:0;
 }
 
 .header {
     display: flex;
+    align-items: center;
 
 }
 
@@ -214,7 +215,7 @@ dd {
 
 .button a {
     border: 1px solid black;
-    margin: 10px;
+    margin: 20px;
     color: rgb(53, 122, 183);
     border-radius: 50px;
     padding: 20px;
