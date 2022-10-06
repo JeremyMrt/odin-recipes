@@ -204,20 +204,22 @@ dd {
 
 /* Buttons */
 
-.button {
-    text-align: center;    
-    margin-top: 60px;
-
-    
+footer {
+    text-align: center;
 }
 
-.button a {
+button {
     border: 1px solid black;
     margin: 20px;
-    color: rgb(53, 122, 183);
-    border-radius: 50px;
+    background-color: rgb(255,255,212);
     padding: 20px;
+    box-shadow: 4px -2px rgb(198,8,0);
+}
+
+button a  {
     text-decoration: none;
     font-weight: bold;
-
+    color: rgb(53, 122, 183); 
+    font-size: 20px;
+    text-transform: uppercase;
 }
