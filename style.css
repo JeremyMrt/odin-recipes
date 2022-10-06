@@ -73,9 +73,8 @@ h2{
 }
 
 .menu {
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 20px;
-    border-radius: 10px;
     box-shadow: 40px -20px rgb(53,122,183);
     margin-top: 70px;  
 }
@@ -120,9 +119,8 @@ ul {
 .ingredients,
 .description,
 .steps {
-        border: 1px solid black;
+        border: 2px solid black;
         padding: 20px;
-        border-radius: 10px;
         margin-top: 50px;      
     }
 
