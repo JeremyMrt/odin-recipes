@@ -156,10 +156,11 @@ img {
 
 .ingredients img {
     border: none;
-    width: 220px;
+    width: 40%;
     height: auto;
     float: right;
     margin: 0px;
+
 }
 
 .ingredients {
@@ -171,17 +172,17 @@ img {
 .ingredients ul {
     list-style-type: none;
     text-align: left;
-    width: auto;
+    width: 60%;
     padding:0px;
     display: inline-block;
- 
+
 }
 .ingredients p {
     font-family: "Segoe UI Bold", Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: left;
-
-
+    width: 60%;
+    margin: 0;
 }
 
 strong {
